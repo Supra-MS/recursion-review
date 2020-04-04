@@ -4,7 +4,10 @@
 // };
 
 // But instead we're going to implement it from scratch:
-var getElementsByClassName = function(className
+
+var getElementsByClassName = function (className, node
 ) {
-  // your code here
+
+
+
 };
